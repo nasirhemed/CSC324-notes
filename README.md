@@ -13,4 +13,4 @@ This repo contains notebooks of the lectures from CSC324
 ## Lecture 5: Functors and Monads
 [Notebook](https://nbviewer.jupyter.org/github/nasirhemed/CSC324-notes/blob/master/Lectures/Lecture5.ipynb#)
 ## Lecture 6: Monads
-[Notebook] (https://nbviewer.jupyter.org/github/nasirhemed/CSC324-notes/blob/master/Lecture/Lecture6.ipynb)
+[Notebook](https://nbviewer.jupyter.org/github/nasirhemed/CSC324-notes/blob/master/Lectures/Lecture6.ipynb)
